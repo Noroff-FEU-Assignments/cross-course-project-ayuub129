@@ -1,4 +1,4 @@
 # yubi-repo
 cross-course-project-ayuub129 created by GitHub Classroom
 
- https://noroff-feu-assignments.github.io/yubi-repo/ here is my page
+ https://app.netlify.com/sites/yubi-page/overview her is mine
